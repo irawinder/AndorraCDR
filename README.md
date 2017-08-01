@@ -8,6 +8,9 @@ Scripts for agent-based visualization with origin-destination matrices with case
 4. Clone The Repository
 5. Run "AndorraPlayer.pde" using Processing Application
 
+# Data Disclaimer
+No record-level data exists in this repository. Any representation has been aggregated and anonymized.
+
 ## Screen Shots
 * Adorra La Vella tourist activity inferred from cell phone meta data.
  ![AndorraCDR](screenshot.png "Andorra Tourist Visualization")
